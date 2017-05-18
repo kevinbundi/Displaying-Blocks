@@ -1,0 +1,8 @@
+Displaying Blocks
+
+Use of margins and paddings to adjust the spaces between divisions and the use of display property 
+to be able to put each block in its proper place
+
+Use of transition effects(hover) when you place the cursor over the images and the heading.
+
+HTML5 & CSS3
